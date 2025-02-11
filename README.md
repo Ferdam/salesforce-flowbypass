@@ -2,7 +2,9 @@
 # Bypass Flow Triggers via Apex
 ## Why?
 I've faced this way too many times, so I wondered if bypassing Flow Triggers can easily be achieved.
+
 The idea here is to have the Flow Trigger setup mentioned below as baseline for any existing or futurely implemented Flow Triggers in your Org. 
+
 Cons: requires Dev/engineering team to follow this strictly or implement blockers in the CI/CD pipeline/Git repo
 
 ![Flow Trigger Example](./flow-example.png "Flow Trigger Example")
